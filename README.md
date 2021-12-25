@@ -1,7 +1,7 @@
 # WhatsappClone
 
 ## You will find in this app the following stuff:
-#### Technical
+#### Technology
 * Firebase
 * Android Native
 #### Functions
