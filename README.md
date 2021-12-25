@@ -9,16 +9,16 @@
 * Register account with Email and Password
 * Login with default account or Google account
 * Save login status for later
+* Online/Offline status realtime
 * Update information of account
 * Realtime chatting
-* Online/Offline status realtime
 * Seen function
 * And more...
 
 ### Updating in furture
 * Login with Facebook account and Phone number
 * Add friends functions
-* Push notification when message delivery
+* Show notification when there is an incoming message
 * Call function
 
 
