@@ -23,5 +23,5 @@
 * Call function
 
 
-#### © 2021 thor-coderr | fb.me/ngntanlocc
+#### © 2022 lochensom | fb.me/ngntanlocc
 
