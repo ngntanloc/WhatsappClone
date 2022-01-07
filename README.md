@@ -23,5 +23,5 @@
 * Call function
 
 
-#### © 2022 lochensom | fb.me/ngntanlocc
+#### © 2022 TanLoc | fb.me/ngntanlocc
 
