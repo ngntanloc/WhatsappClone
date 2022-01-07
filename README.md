@@ -10,8 +10,9 @@
 * Login with default account or Google account
 * Save login status for later
 * Online/Offline status realtime
-* Update information of account
+* Update information account
 * Realtime chatting
+* Remove for you, remove for everyone message
 * Seen function
 * And more...
 
@@ -24,4 +25,3 @@
 
 #### © 2021 thor-coderr | fb.me/ngntanlocc
 
-![ThorImage](https://github.com/thor-coderr/thor-mall/blob/main/thorimg.jpg)
